@@ -1,0 +1,50 @@
+[
+  {
+    "id":null,
+    "name":"CV",
+    "description":"Mon CV en ligne. Contactez-moi si mon profil vous intéresse.",
+    "technologies":[
+      "HTML5",
+      "CSS3",
+      "PHP"
+    ],
+    "url":"https://mikoliryc.synology.me/CV",
+    "image":"/assets/images/CV.png"
+  },
+  {
+    "id":1,
+    "name":"Holobuilder",
+    "description":"Application permettant de suivre un manuel d'instruction holographique pour la construction d'un modèle en Lego.",
+    "technologies":[
+      "Unity",
+      "Hololens"
+    ],
+    "url":"/projects/1",
+    "image":"/assets/images/holobuilder.png"
+  },
+  {
+    "id":null,
+    "name":"Momen'time",
+    "description":"Site vitrine Momen'time d'un photographe indépendant.",
+    "technologies":[
+      "Angular 5",
+      "NodeJS",
+      "ExpressJS"
+    ],
+    "url":"https://momen-time.com",
+    "image":"/assets/images/momen-time.png"
+  },
+  {
+    "id":null,
+    "name":"HiScore",
+    "description":"Une application permettant de garder vos scores durant vos parties de jeux de sociétés.",
+    "technologies": [
+      "Angular 6",
+      "PWA",
+      "Cordova",
+      "Electron"
+    ],
+    "url":"https://mikoliryc.synology.me/HiScore",
+    "image":"/assets/images/HiScore.png"
+  }
+]
